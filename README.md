@@ -7,7 +7,7 @@ I am an android geek, TDD nut, ex Shazamer, currently the Principal Software Eng
 You can find me at:
 
 - 🙋‍♂️<a href="https://card.savvas.cloud">Profile</a>
-- 🐘 <a rel="me" href="https://androiddev.social/@geeky_android">Mastodon</a>
+- 🐘<a rel="me" href="https://androiddev.social/@geeky_android">Mastodon</a>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=savvasdalkitsis)](https://github.com/anuraghazra/github-readme-stats)
 
