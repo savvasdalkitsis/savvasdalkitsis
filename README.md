@@ -2,8 +2,7 @@
 
 My name is Savvas Dalkitsis
 
-I am an android geek, TDD nut, ex Shazamer, currently the Principal Software Engineer for apps @ASOS
-
+I am an android geek, TDD nut, ex Shazamer/ASOSer, currently a Staff Engineer @dojo-engineering
 You can find me at:
 
 - 🙋‍♂️<a href="https://card.savvas.cloud">Profile</a>
