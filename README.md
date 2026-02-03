@@ -2,7 +2,7 @@
 
 My name is Savvas Dalkitsis
 
-I am an android geek, TDD nut, ex Shazamer/ASOSer, currently a Staff Engineer @dojo-engineering
+I am an android geek, TDD nut, ex Shazam/ASOS/Dojo, currently a Staff Tech Lead @google
 You can find me at:
 
 - 🙋‍♂️<a href="https://card.savvas.cloud">Profile</a>
