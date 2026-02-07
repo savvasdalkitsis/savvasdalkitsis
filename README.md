@@ -11,4 +11,4 @@ You can find me at:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=savvasdalkitsis)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=savvasdalkitsis)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=savvasdalkitsis)](https://github.com/ryo-ma/github-profile-trophy)
